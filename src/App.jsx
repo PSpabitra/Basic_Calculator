@@ -1,13 +1,9 @@
-
-
+import AppLayout from "./layout/AppLayout"
 function App() {
   return (
     <>
-  
-      <p className="read-the-docs">
-        Testing
-      </p>
-    </>
+    <AppLayout/>
+     </>
   )
 }
 
